@@ -1,6 +1,1 @@
-# Moje první repo
- dev
-Under development
-
-trouba
- main
+Změna přímo z větve main
