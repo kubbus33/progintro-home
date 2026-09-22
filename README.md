@@ -1,6 +1,1 @@
-# Moje první repo
- dev
-Under development
-
-trouba
- main
+Změna z větve conflict-test
